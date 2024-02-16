@@ -3,7 +3,7 @@
 ## About Me
  * :school: Computer Science B.A. at UC Davis
  * :books: Interest in Software Development, ML, Computer Vision
- * :gear: Software Engineer
+ * :computer: Software Engineer
 
 
 <!--

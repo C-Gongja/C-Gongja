@@ -1,7 +1,9 @@
 # Taeyoon Kim
 
 ## About Me
- * Studying Computer Science Engineering at UC Davis
+ * :school: Computer Science B.A. at UC Davis
+ * :books: Interest in Software Development, ML, Computer Vision
+ * :gear: Software Engineer
 
 
 <!--

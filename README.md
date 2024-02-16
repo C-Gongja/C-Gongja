@@ -1,7 +1,6 @@
-## Taeyoon Kim
+# Taeyoon Kim
 
-### About Me
----------------
+## About Me
  * Studying Computer Science Engineering at UC Davis
 
 

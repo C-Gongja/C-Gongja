@@ -1,6 +1,7 @@
-### Taeyoon Kim
+## Taeyoon Kim
 
-## About Me
+### About Me
+ Markup : *  Studying Computer Science Engineering at UC Davis
 
 
 <!--

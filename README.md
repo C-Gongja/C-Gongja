@@ -5,7 +5,9 @@
  * :books: Interest in Software Development, ML, Computer Vision
  * :computer: Software Engineer
 
-
+## Application
+## Youtube video controller using HGD
+## AI Connect 4 
 <!--
 **C-Gongja/C-Gongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

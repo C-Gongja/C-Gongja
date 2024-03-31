@@ -2,8 +2,9 @@
 
 ## About Me
  * :computer: Software Engineer
- * :school: Computer Science B.A. at UC Davis
  * :books: Interest in Software Development, AI, ML, Computer Vision
+
+ * :school: Computer Science B.A. at UC Davis
 
 ## F1 tenth
 ## Application

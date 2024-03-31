@@ -1,9 +1,9 @@
 # Taeyoon Kim
 
 ## About Me
+ * :computer: Software Engineer
  * :school: Computer Science B.A. at UC Davis
  * :books: Interest in Software Development, AI, ML, Computer Vision
- * :computer: Software Engineer
 
 ## F1 tenth
 ## Application

@@ -7,7 +7,7 @@
  * :school: Computer Science B.A. at UC Davis
 
 ## F1 tenth
-[https://github.com/C-Gongja/darc_f1tenth_system.git]
+[https://github.com/C-Gongja/darc_f1tenth_system.git] <br>
 [https://github.com/C-Gongja/f1tenth_gym_ros.git]
 ## Application
 ## Youtube video controller using HGD

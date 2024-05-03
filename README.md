@@ -7,8 +7,11 @@
  * :school: Computer Science B.A. at UC Davis
 
 ## F1 tenth
+[https://github.com/C-Gongja/darc_f1tenth_system.git]
+[https://github.com/C-Gongja/f1tenth_gym_ros.git]
 ## Application
 ## Youtube video controller using HGD
+[https://github.com/C-Gongja/hgd_youtube_controller]
 ## AI Connect 4 
 <!--
 **C-Gongja/C-Gongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

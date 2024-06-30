@@ -6,7 +6,7 @@
 
  * :school: Computer Science B.A. at UC Davis
 
-## F1 tenth
+## UC Davis F1 tenth Autonomous Race Car
 [Davis RC f1tenth_stack](https://github.com/C-Gongja/darc_f1tenth_system.git) <br>
 [ROS2 Simulation](https://github.com/C-Gongja/f1tenth_gym_ros.git) <br>
 ## AI Connect 4 

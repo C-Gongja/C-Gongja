@@ -9,10 +9,12 @@
 ## F1 tenth
 [Davis RC f1tenth_stack](https://github.com/C-Gongja/darc_f1tenth_system.git) <br>
 [ROS2 Simulation](https://github.com/C-Gongja/f1tenth_gym_ros.git) <br>
-## Application
-## Youtube video controller using HGD
-[https://github.com/C-Gongja/hgd_youtube_controller]
 ## AI Connect 4 
+## Youtube video controller using HGD
+## Enigma Machine
+## BigNum Calculator
+## Car Counting
+[https://github.com/C-Gongja/hgd_youtube_controller]
 <!--
 **C-Gongja/C-Gongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

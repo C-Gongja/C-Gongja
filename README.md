@@ -11,10 +11,10 @@
 [ROS2 Simulation](https://github.com/C-Gongja/f1tenth_gym_ros.git) <br>
 ## AI Connect 4 
 ## Youtube video controller using HGD
+[repo](https://github.com/C-Gongja/hgd_youtube_controller) <br>
 ## Enigma Machine
 ## BigNum Calculator
 ## Car Counting
-[https://github.com/C-Gongja/hgd_youtube_controller]
 <!--
 **C-Gongja/C-Gongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

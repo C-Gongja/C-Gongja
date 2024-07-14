@@ -25,19 +25,28 @@ When an obstacle is detected, the car switches to a local obstacle avoidance con
 [ROS2 Simulation](https://github.com/C-Gongja/f1tenth_gym_ros.git) <br>
 
 ## AI Connect 4 
-Design an AI algorithm to efficiently and competitively play the game of connect-4.
-Developed an AI agent for Connect 4 using the minimax algorithm (based on Q-Learning) and alpha-beta pruning to optimize game strategy and performance.
+Design an AI algorithm to efficiently and competitively play the game of connect-4. <br>
+Developed an AI agent for Connect 4 using the minimax algorithm (based on Q-Learning) and alpha-beta pruning to optimize game strategy and performance. <br>
 Designed a graphical user interface (GUI) using Pygame, providing an interactive and user-friendly platform for playing Connect 4.
 
 [repo](https://github.com/C-Gongja/connect_4_ai) <br>
 
 ## Youtube video controller using HGD
+A YouTube Controller using hand gesture recognition, employing the MediaPipe library for Python.<br>
+Use the pre-trained hand gesture detection (hgd) model that was initially developed by Kazuhito00.<br> 
+Used translated version.I developed a Java-based YouTube video controller to extract outputs from a Python-based HGD and integrate them seamlessly.<br>
 [repo](https://github.com/C-Gongja/hgd_youtube_controller) <br>
 
 ## Enigma Machine
+The Enigma machine is a cipher device developed and used in the early- to mid-20th century to protect commercial, diplomatic, and military communication. It was employed extensively by Nazi Germany during World War II, in all branches of the German military. The Enigma machine was considered so secure that it was used to encipher the most top-secret messages. <br> -wikipedia- <br>
 [repo](https://github.com/C-Gongja/Enigma-Machine) <br>
 
 ## BigNum Calculator
+We often seen fixed-precision integers. For example, int64_t, uint32_t in C/C++, i64, u32 in Rust. These integers have a fixed width and a limited numbers they can represent. <br>
+If the number were any larger (or smaller), the representation is incorrect. For example, in C (uint32_t) 0xffffffff + 1 == 0. <br>
+This may be very in-convenient and error prone when we are carrying out large scale computations.<br>
+However, integer in Python doesn't seem to have this limitation and can represent arbitrary precisions. You can calculate any integer operations without worrying the upper bound or lower bound.<br>
+This caculator can computes large scale computations.<br>
 [repo](https://github.com/C-Gongja/BigNum-Calculator) <br>
 
 ## Car Counting

@@ -3,7 +3,7 @@
 ## About Me
  * :computer: Software Engineer
  * :books: Interest in Software Development, AI, ML, Computer Vision
- * :school: Computer Science B.A. at UC Davis
+ * :school: Computer Science B.A.
 
 ## [UC Davis F1 tenth Autonomous Race Car](https://github.com/C-Gongja/f1tenth_gym_ros.git)
 F1Tenth is an autonomous racing league where universities design self-driving cars to compete for the fastest car. For our ECS Capstone project, we collaborated with Prof. Nazari's CORE Lab to develop the perception and control for the lab’s race car, enabling it to autonomously navigate a race track while avoiding obstacles, in preparation for future F1Tenth competitions.

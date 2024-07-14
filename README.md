@@ -3,7 +3,6 @@
 ## About Me
  * :computer: Software Engineer
  * :books: Interest in Software Development, AI, ML, Computer Vision
-
  * :school: Computer Science B.A. at UC Davis
 
 ## [UC Davis F1 tenth Autonomous Race Car](https://github.com/C-Gongja/f1tenth_gym_ros.git)

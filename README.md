@@ -1,5 +1,6 @@
 # Taeyoon Kim
 
+## 📜 Portfolio
 [Web Portfolio](https://c-gongja.github.io/TYWebv2/)
 
 ## About Me
@@ -7,31 +8,31 @@
  * :books: Interest in Software Development, AI, ML, Computer Vision
  * :school: Computer Science B.A.
 
-## Skills
+## ✨ Skills
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts)](https://skillicons.dev)
 
-### Frontend
+### 🖥️ Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,threejs,tailwind,npm)](https://skillicons.dev)
 * zustand
 * expo
 
-### Backend
+### 🌐 Backend
 [![My Skills](https://skillicons.dev/icons?i=spring,maven,gradle,firebase,flask,graphql)](https://skillicons.dev)
 
-### Database
+### 🗄️ Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
-### Developer Tools
+### 🛠️ Developer Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,postman)](https://skillicons.dev)
 
-### etc
+### ☰ etc
 [![My Skills](https://skillicons.dev/icons?i=matlab,ros)](https://skillicons.dev)
 
-## Projects
+## 💻 Projects
 
 ### [UC Davis F1 tenth Autonomous Race Car](https://github.com/C-Gongja/f1tenth_gym_ros.git)
 F1Tenth is an autonomous racing league where universities design self-driving cars to compete for the fastest car. For our ECS Capstone project, we collaborated with Prof. Nazari's CORE Lab to develop the perception and control for the lab’s race car, enabling it to autonomously navigate a race track while avoiding obstacles, in preparation for future F1Tenth competitions.

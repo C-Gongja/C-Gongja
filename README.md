@@ -23,7 +23,7 @@
 ### 🗄️ Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
-### Cloud
+### ☁️ Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 ### 🛠️ Developer Tools
